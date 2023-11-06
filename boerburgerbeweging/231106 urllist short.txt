@@ -1,0 +1,5 @@
+https://boerburgerbeweging.nl/ - https://requestmap.webperf.tools/queue/231106_BiDc35_GSS
+https://boerburgerbeweging.nl/kandidaten-tweede-kamerverkiezingen/ - https://requestmap.webperf.tools/render/231106_BiDc0C_GFK
+https://boerburgerbeweging.nl/steun-bbb/ik-word-donateur/ - https://requestmap.webperf.tools/render/231106_AiDcJW_GE4
+https://boerburgerbeweging.nl/verkiezingsprogramma/ - https://requestmap.webperf.tools/render/231106_BiDcG0_GFR
+https://webshop.boerburgerbeweging.nl/ - https://requestmap.webperf.tools/render/231106_BiDcJR_GFV
