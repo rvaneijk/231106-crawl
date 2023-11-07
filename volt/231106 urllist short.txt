@@ -3,3 +3,6 @@ https://volt.team/simple-join/nl-NL?utm_source=voltnederland.org - https://reque
 https://voltnederland.org/ - https://requestmap.webperf.tools/render/231106_AiDcG0_H25
 https://voltnederland.org/contactformulier - https://requestmap.webperf.tools/render/231106_BiDcY4_H39
 https://voltnederland.org/standpunten - https://requestmap.webperf.tools/render/231106_BiDcJ0_H3J
+
+
+https://www.voltshop.org/ - https://requestmap.webperf.tools/queue/231107_BiDcJD_70N
